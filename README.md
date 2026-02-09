@@ -1,4 +1,4 @@
-# TechCorp Analysis
+# TechCorp Analysis Using SQL
 
 ## Project Overview
 This project analyzes operational data from TechCorp, an e-commerce company specializing in electronic devices such as laptops, smartphones, and accessories, while also providing technical support services.
